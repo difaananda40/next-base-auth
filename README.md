@@ -1,5 +1,6 @@
-Next Base Auth
-This project is built with Next.js, TypeScript, Tailwind CSS, and Shadcn UI.
+# Next Base Auth
+
+This project is built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **Shadcn UI**.
 
 ## Technologies
 - **Framework:** Next.js
